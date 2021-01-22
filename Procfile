@@ -1,1 +1,1 @@
-web: gunicorn boutique-ado-ryan.wsgi:application
+web: gunicorn boutique_v1.wsgi:application
